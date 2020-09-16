@@ -2,7 +2,7 @@
   <img alt="vueje" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Ionic_Logo.svg/1280px-Ionic_Logo.svg.png" width="400">
   <h1>Geolocation 🛰️</h1>
 
-  <p>Web application made with VueJS.</p>
+  <p>Mobile application made with Ionic.</p>
 </div>
 
 ## Resources 📝
